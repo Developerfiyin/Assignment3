@@ -15,3 +15,9 @@ p {
   color: rgb(252, 114, 2);
   font-weight: bolder;
 }
+button {
+  background-color: rgb(252, 114, 2);
+  border: none;
+  padding: 4px;
+  border-radius: 8px;
+}
