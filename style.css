@@ -15,9 +15,15 @@ p {
   color: rgb(252, 114, 2);
   font-weight: bolder;
 }
+.form {
+  position: absolute;
+  left: 81%;
+}
 button {
   background-color: rgb(252, 114, 2);
   border: none;
-  padding: 4px;
-  border-radius: 8px;
+  color: white;
+  padding: 9px;
+  border-radius: 6px;
+  font-weight: bold;
 }
