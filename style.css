@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  background-color: #fda919;
 }
 
 h2 {
@@ -32,7 +33,9 @@ img {
 .form {
   position: absolute;
   left: 81%;
+  border: 3px solid orchid;
 }
+
 button {
   background-color: rgb(252, 114, 2);
   border: none;
