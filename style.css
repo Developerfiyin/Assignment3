@@ -37,13 +37,12 @@ img {
   left: 81%;
 }
 .form label {
-  border-radius: 20px;
   background-color: black;
   color: orange;
   font-family: serif;
 }
 .form input {
-  border-radius: 1em;
+  border-radius: 4em;
   border: none;
   background-color: whitesmoke;
 }
