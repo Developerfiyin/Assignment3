@@ -31,7 +31,9 @@ img {
   align-content: center;
   margin-top: -30%;
 }
-
+h3 {
+  color: #fff;
+}
 .form {
   position: absolute;
   left: 81%;
