@@ -12,7 +12,8 @@ h2 {
 }
 p {
   color: rgb(252, 114, 2);
-  font-weight: bolder;
+
+  font-weight: 1em;
 }
 
 img {
