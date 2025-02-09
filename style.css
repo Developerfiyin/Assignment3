@@ -40,6 +40,7 @@ img {
   border-radius: 20px;
   background-color: black;
   color: orange;
+  font-family: serif;
 }
 .form input {
   border-radius: 1em;
